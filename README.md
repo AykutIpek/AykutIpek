@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Aykut İpek</h1>
 
-- 🎓 I student from Dumlupınar University Computer Programming department.
+- 🎓 I graduated from Dumlupınar University Computer Programming department.
 - 👩🏻‍💻 I am currently working as an iOS development.
 - 💌 You can reach me on [aykutipek_2001@hotmail.com](mailto:aykutipek_2001@hotmail.com)
 
